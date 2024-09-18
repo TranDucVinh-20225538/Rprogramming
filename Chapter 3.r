@@ -68,3 +68,11 @@ apply(behavioral,2,function(x)abs(mean(x)-median(x)))
 
 #16. Do you prefer the named function or an anonymous function? Why? What is a situation for each in which it might be preferable?
 # each has the advantages and disadvantages. named function can be reused many times but much complex more than anonynous function which useful when the function is simple and it only used once or twice but if i have to do it multiple times i prefer the named function
+ecomm.df <- read.csv ("https: // goo. gl/hzRyFd")
+﻿﻿summary (ecomm. df)
+
+
+
+>
+
+
