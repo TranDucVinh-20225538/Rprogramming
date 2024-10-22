@@ -146,7 +146,7 @@ valid_top_20 <- valid_urls %>%
   
   transitions_matrix_top_20 <- prop.table(transitions_top_20, margin = 1)
     
-set.seed(1405) 
+set.seed(1406) 
 superheat(transitions_matrix_top_20,
             bottom.label.size = 1,
             bottom.label.text.size = 2.5,
